@@ -73,3 +73,7 @@ header .gnb li:first-child {
 #idx_top span {
     color: yellow;
 }
+
+#idx_top p {
+    color: blue;
+}
