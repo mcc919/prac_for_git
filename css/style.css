@@ -75,5 +75,6 @@ header .gnb li:first-child {
 }
 
 #idx_top p {
-    color: red;
+    color: darkorange;
+    font-size: 30px;
 }
