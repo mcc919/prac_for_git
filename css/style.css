@@ -71,10 +71,9 @@ header .gnb li:first-child {
 }
 
 #idx_top span {
-    color: yellow;
+    color: red;
 }
 
 #idx_top p {
     color: darkorange;
-    font-size: 15px;
 }
